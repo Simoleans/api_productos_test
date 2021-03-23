@@ -8,7 +8,7 @@
 
 > API REST CRUD Productos
 
-## Install
+## Instalación
 
 ```sh
 git clone
@@ -16,7 +16,7 @@ git clone
 composer install
 ```
 
-## Usage
+## ¿Como usarlo?
 
 ```sh
 php artisan migrate --seed
